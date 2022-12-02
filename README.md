@@ -7,3 +7,4 @@
 
 3) Вставить вот это https://github.com/ZenkerArt/Zlia/blob/master/Addon.js
 
+Работает только на google.com на google.ru не будет работать

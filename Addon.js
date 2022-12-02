@@ -19,5 +19,4 @@
     const url = new URLSearchParams(location.search)
     url.set('q', `${url.get('q')} ${words.join(' ')}`)
     location.href = `/search?${url.toString()}`
-    // Your code here...
 })();
